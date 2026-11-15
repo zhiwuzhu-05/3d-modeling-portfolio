@@ -1,0 +1,12 @@
+# 3ds Max temporary files and automatic backups
+autoback/
+AutoBackup/
+*.bak
+*.max.bak
+*.sv$
+*.tmp
+
+# Operating system metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
